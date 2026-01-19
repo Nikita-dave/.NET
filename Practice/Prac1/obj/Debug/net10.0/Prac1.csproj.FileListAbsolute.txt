@@ -1,0 +1,14 @@
+D:\Capgemini Training\Practice\Prac1\bin\Debug\net10.0\Prac1.exe
+D:\Capgemini Training\Practice\Prac1\bin\Debug\net10.0\Prac1.deps.json
+D:\Capgemini Training\Practice\Prac1\bin\Debug\net10.0\Prac1.runtimeconfig.json
+D:\Capgemini Training\Practice\Prac1\bin\Debug\net10.0\Prac1.dll
+D:\Capgemini Training\Practice\Prac1\bin\Debug\net10.0\Prac1.pdb
+D:\Capgemini Training\Practice\Prac1\obj\Debug\net10.0\Prac1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\Practice\Prac1\obj\Debug\net10.0\Prac1.AssemblyInfoInputs.cache
+D:\Capgemini Training\Practice\Prac1\obj\Debug\net10.0\Prac1.AssemblyInfo.cs
+D:\Capgemini Training\Practice\Prac1\obj\Debug\net10.0\Prac1.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\Practice\Prac1\obj\Debug\net10.0\Prac1.dll
+D:\Capgemini Training\Practice\Prac1\obj\Debug\net10.0\refint\Prac1.dll
+D:\Capgemini Training\Practice\Prac1\obj\Debug\net10.0\Prac1.pdb
+D:\Capgemini Training\Practice\Prac1\obj\Debug\net10.0\Prac1.genruntimeconfig.cache
+D:\Capgemini Training\Practice\Prac1\obj\Debug\net10.0\ref\Prac1.dll

@@ -1,0 +1,14 @@
+D:\Capgemini Training\day09_01\BinaryFileDemo\bin\Debug\net10.0\BinaryFileDemo.exe
+D:\Capgemini Training\day09_01\BinaryFileDemo\bin\Debug\net10.0\BinaryFileDemo.deps.json
+D:\Capgemini Training\day09_01\BinaryFileDemo\bin\Debug\net10.0\BinaryFileDemo.runtimeconfig.json
+D:\Capgemini Training\day09_01\BinaryFileDemo\bin\Debug\net10.0\BinaryFileDemo.dll
+D:\Capgemini Training\day09_01\BinaryFileDemo\bin\Debug\net10.0\BinaryFileDemo.pdb
+D:\Capgemini Training\day09_01\BinaryFileDemo\obj\Debug\net10.0\BinaryFileDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\day09_01\BinaryFileDemo\obj\Debug\net10.0\BinaryFileDemo.AssemblyInfoInputs.cache
+D:\Capgemini Training\day09_01\BinaryFileDemo\obj\Debug\net10.0\BinaryFileDemo.AssemblyInfo.cs
+D:\Capgemini Training\day09_01\BinaryFileDemo\obj\Debug\net10.0\BinaryFileDemo.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\day09_01\BinaryFileDemo\obj\Debug\net10.0\BinaryFileDemo.dll
+D:\Capgemini Training\day09_01\BinaryFileDemo\obj\Debug\net10.0\refint\BinaryFileDemo.dll
+D:\Capgemini Training\day09_01\BinaryFileDemo\obj\Debug\net10.0\BinaryFileDemo.pdb
+D:\Capgemini Training\day09_01\BinaryFileDemo\obj\Debug\net10.0\BinaryFileDemo.genruntimeconfig.cache
+D:\Capgemini Training\day09_01\BinaryFileDemo\obj\Debug\net10.0\ref\BinaryFileDemo.dll

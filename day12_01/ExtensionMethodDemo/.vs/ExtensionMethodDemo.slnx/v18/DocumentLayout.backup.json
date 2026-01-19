@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capgemini Training\\day12_01\\ExtensionMethodDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{422BD62E-2DCD-4972-8CCD-4E1FE8F56652}|ExtensionMethodDemo\\ExtensionMethodDemo.csproj|d:\\capgemini training\\day12_01\\extensionmethoddemo\\extensionmethoddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{422BD62E-2DCD-4972-8CCD-4E1FE8F56652}|ExtensionMethodDemo\\ExtensionMethodDemo.csproj|solutionrelative:extensionmethoddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BF72A9-81B3-4532-A608-251AEB7F94B2}|CalculatorLib\\CalculatorLib.csproj|d:\\capgemini training\\day12_01\\extensionmethoddemo\\calculatorlib\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28BF72A9-81B3-4532-A608-251AEB7F94B2}|CalculatorLib\\CalculatorLib.csproj|solutionrelative:calculatorlib\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422BD62E-2DCD-4972-8CCD-4E1FE8F56652}|ExtensionMethodDemo\\ExtensionMethodDemo.csproj|d:\\capgemini training\\day12_01\\extensionmethoddemo\\extensionmethoddemo\\extensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{422BD62E-2DCD-4972-8CCD-4E1FE8F56652}|ExtensionMethodDemo\\ExtensionMethodDemo.csproj|solutionrelative:extensionmethoddemo\\extensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExtensionMethod.cs",
+              "DocumentMoniker": "D:\\Capgemini Training\\day12_01\\ExtensionMethodDemo\\ExtensionMethodDemo\\ExtensionMethod.cs",
+              "RelativeDocumentMoniker": "ExtensionMethodDemo\\ExtensionMethod.cs",
+              "ToolTip": "D:\\Capgemini Training\\day12_01\\ExtensionMethodDemo\\ExtensionMethodDemo\\ExtensionMethod.cs",
+              "RelativeToolTip": "ExtensionMethodDemo\\ExtensionMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T10:38:09.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\Capgemini Training\\day12_01\\ExtensionMethodDemo\\CalculatorLib\\Calculator.cs",
+              "RelativeDocumentMoniker": "CalculatorLib\\Calculator.cs",
+              "ToolTip": "D:\\Capgemini Training\\day12_01\\ExtensionMethodDemo\\CalculatorLib\\Calculator.cs",
+              "RelativeToolTip": "CalculatorLib\\Calculator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T10:27:51.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capgemini Training\\day12_01\\ExtensionMethodDemo\\ExtensionMethodDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ExtensionMethodDemo\\Program.cs",
+              "ToolTip": "D:\\Capgemini Training\\day12_01\\ExtensionMethodDemo\\ExtensionMethodDemo\\Program.cs",
+              "RelativeToolTip": "ExtensionMethodDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T10:26:03.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Capgemini Training\Week1_Assessment\MedisureClinic\bin\Debug\net10.0\MedisureClinic.exe
+D:\Capgemini Training\Week1_Assessment\MedisureClinic\bin\Debug\net10.0\MedisureClinic.deps.json
+D:\Capgemini Training\Week1_Assessment\MedisureClinic\bin\Debug\net10.0\MedisureClinic.runtimeconfig.json
+D:\Capgemini Training\Week1_Assessment\MedisureClinic\bin\Debug\net10.0\MedisureClinic.dll
+D:\Capgemini Training\Week1_Assessment\MedisureClinic\bin\Debug\net10.0\MedisureClinic.pdb
+D:\Capgemini Training\Week1_Assessment\MedisureClinic\obj\Debug\net10.0\MedisureClinic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\Week1_Assessment\MedisureClinic\obj\Debug\net10.0\MedisureClinic.AssemblyInfoInputs.cache
+D:\Capgemini Training\Week1_Assessment\MedisureClinic\obj\Debug\net10.0\MedisureClinic.AssemblyInfo.cs
+D:\Capgemini Training\Week1_Assessment\MedisureClinic\obj\Debug\net10.0\MedisureClinic.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\Week1_Assessment\MedisureClinic\obj\Debug\net10.0\MedisureClinic.dll
+D:\Capgemini Training\Week1_Assessment\MedisureClinic\obj\Debug\net10.0\refint\MedisureClinic.dll
+D:\Capgemini Training\Week1_Assessment\MedisureClinic\obj\Debug\net10.0\MedisureClinic.pdb
+D:\Capgemini Training\Week1_Assessment\MedisureClinic\obj\Debug\net10.0\MedisureClinic.genruntimeconfig.cache
+D:\Capgemini Training\Week1_Assessment\MedisureClinic\obj\Debug\net10.0\ref\MedisureClinic.dll

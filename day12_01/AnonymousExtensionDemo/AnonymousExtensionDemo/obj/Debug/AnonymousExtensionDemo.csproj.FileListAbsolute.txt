@@ -1,0 +1,7 @@
+D:\Capgemini Training\day12_01\AnonymousExtensionDemo\AnonymousExtensionDemo\bin\Debug\AnonymousExtensionDemo.exe.config
+D:\Capgemini Training\day12_01\AnonymousExtensionDemo\AnonymousExtensionDemo\bin\Debug\AnonymousExtensionDemo.exe
+D:\Capgemini Training\day12_01\AnonymousExtensionDemo\AnonymousExtensionDemo\bin\Debug\AnonymousExtensionDemo.pdb
+D:\Capgemini Training\day12_01\AnonymousExtensionDemo\AnonymousExtensionDemo\obj\Debug\AnonymousExtensionDemo.csproj.AssemblyReference.cache
+D:\Capgemini Training\day12_01\AnonymousExtensionDemo\AnonymousExtensionDemo\obj\Debug\AnonymousExtensionDemo.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\day12_01\AnonymousExtensionDemo\AnonymousExtensionDemo\obj\Debug\AnonymousExtensionDemo.exe
+D:\Capgemini Training\day12_01\AnonymousExtensionDemo\AnonymousExtensionDemo\obj\Debug\AnonymousExtensionDemo.pdb

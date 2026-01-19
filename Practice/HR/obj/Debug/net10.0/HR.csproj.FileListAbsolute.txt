@@ -1,0 +1,14 @@
+D:\Capgemini Training\Practice\HR\bin\Debug\net10.0\HR.exe
+D:\Capgemini Training\Practice\HR\bin\Debug\net10.0\HR.deps.json
+D:\Capgemini Training\Practice\HR\bin\Debug\net10.0\HR.runtimeconfig.json
+D:\Capgemini Training\Practice\HR\bin\Debug\net10.0\HR.dll
+D:\Capgemini Training\Practice\HR\bin\Debug\net10.0\HR.pdb
+D:\Capgemini Training\Practice\HR\obj\Debug\net10.0\HR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\Practice\HR\obj\Debug\net10.0\HR.AssemblyInfoInputs.cache
+D:\Capgemini Training\Practice\HR\obj\Debug\net10.0\HR.AssemblyInfo.cs
+D:\Capgemini Training\Practice\HR\obj\Debug\net10.0\HR.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\Practice\HR\obj\Debug\net10.0\HR.dll
+D:\Capgemini Training\Practice\HR\obj\Debug\net10.0\refint\HR.dll
+D:\Capgemini Training\Practice\HR\obj\Debug\net10.0\HR.pdb
+D:\Capgemini Training\Practice\HR\obj\Debug\net10.0\HR.genruntimeconfig.cache
+D:\Capgemini Training\Practice\HR\obj\Debug\net10.0\ref\HR.dll

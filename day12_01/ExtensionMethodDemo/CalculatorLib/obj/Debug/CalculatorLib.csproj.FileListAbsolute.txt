@@ -1,0 +1,6 @@
+D:\Capgemini Training\day12_01\ExtensionMethodDemo\CalculatorLib\bin\Debug\CalculatorLib.dll
+D:\Capgemini Training\day12_01\ExtensionMethodDemo\CalculatorLib\bin\Debug\CalculatorLib.pdb
+D:\Capgemini Training\day12_01\ExtensionMethodDemo\CalculatorLib\obj\Debug\CalculatorLib.csproj.AssemblyReference.cache
+D:\Capgemini Training\day12_01\ExtensionMethodDemo\CalculatorLib\obj\Debug\CalculatorLib.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\day12_01\ExtensionMethodDemo\CalculatorLib\obj\Debug\CalculatorLib.dll
+D:\Capgemini Training\day12_01\ExtensionMethodDemo\CalculatorLib\obj\Debug\CalculatorLib.pdb

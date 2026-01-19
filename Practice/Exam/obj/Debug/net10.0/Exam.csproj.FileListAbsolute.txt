@@ -1,0 +1,14 @@
+D:\Capgemini Training\Practice\Exam\bin\Debug\net10.0\Exam.exe
+D:\Capgemini Training\Practice\Exam\bin\Debug\net10.0\Exam.deps.json
+D:\Capgemini Training\Practice\Exam\bin\Debug\net10.0\Exam.runtimeconfig.json
+D:\Capgemini Training\Practice\Exam\bin\Debug\net10.0\Exam.dll
+D:\Capgemini Training\Practice\Exam\bin\Debug\net10.0\Exam.pdb
+D:\Capgemini Training\Practice\Exam\obj\Debug\net10.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\Practice\Exam\obj\Debug\net10.0\Exam.AssemblyInfoInputs.cache
+D:\Capgemini Training\Practice\Exam\obj\Debug\net10.0\Exam.AssemblyInfo.cs
+D:\Capgemini Training\Practice\Exam\obj\Debug\net10.0\Exam.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\Practice\Exam\obj\Debug\net10.0\Exam.dll
+D:\Capgemini Training\Practice\Exam\obj\Debug\net10.0\refint\Exam.dll
+D:\Capgemini Training\Practice\Exam\obj\Debug\net10.0\Exam.pdb
+D:\Capgemini Training\Practice\Exam\obj\Debug\net10.0\Exam.genruntimeconfig.cache
+D:\Capgemini Training\Practice\Exam\obj\Debug\net10.0\ref\Exam.dll

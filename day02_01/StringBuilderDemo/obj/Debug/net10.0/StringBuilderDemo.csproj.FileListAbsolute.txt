@@ -1,0 +1,14 @@
+D:\Capgemini Training\day02_01\StringBuilderDemo\bin\Debug\net10.0\StringBuilderDemo.exe
+D:\Capgemini Training\day02_01\StringBuilderDemo\bin\Debug\net10.0\StringBuilderDemo.deps.json
+D:\Capgemini Training\day02_01\StringBuilderDemo\bin\Debug\net10.0\StringBuilderDemo.runtimeconfig.json
+D:\Capgemini Training\day02_01\StringBuilderDemo\bin\Debug\net10.0\StringBuilderDemo.dll
+D:\Capgemini Training\day02_01\StringBuilderDemo\bin\Debug\net10.0\StringBuilderDemo.pdb
+D:\Capgemini Training\day02_01\StringBuilderDemo\obj\Debug\net10.0\StringBuilderDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\day02_01\StringBuilderDemo\obj\Debug\net10.0\StringBuilderDemo.AssemblyInfoInputs.cache
+D:\Capgemini Training\day02_01\StringBuilderDemo\obj\Debug\net10.0\StringBuilderDemo.AssemblyInfo.cs
+D:\Capgemini Training\day02_01\StringBuilderDemo\obj\Debug\net10.0\StringBuilderDemo.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\day02_01\StringBuilderDemo\obj\Debug\net10.0\StringBuilderDemo.dll
+D:\Capgemini Training\day02_01\StringBuilderDemo\obj\Debug\net10.0\refint\StringBuilderDemo.dll
+D:\Capgemini Training\day02_01\StringBuilderDemo\obj\Debug\net10.0\StringBuilderDemo.pdb
+D:\Capgemini Training\day02_01\StringBuilderDemo\obj\Debug\net10.0\StringBuilderDemo.genruntimeconfig.cache
+D:\Capgemini Training\day02_01\StringBuilderDemo\obj\Debug\net10.0\ref\StringBuilderDemo.dll

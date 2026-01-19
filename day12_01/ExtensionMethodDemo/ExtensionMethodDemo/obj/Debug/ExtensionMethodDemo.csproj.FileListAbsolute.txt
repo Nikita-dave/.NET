@@ -1,0 +1,10 @@
+D:\Capgemini Training\day12_01\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\ExtensionMethodDemo.exe.config
+D:\Capgemini Training\day12_01\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\ExtensionMethodDemo.exe
+D:\Capgemini Training\day12_01\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\ExtensionMethodDemo.pdb
+D:\Capgemini Training\day12_01\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\CalculatorLib.dll
+D:\Capgemini Training\day12_01\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\CalculatorLib.pdb
+D:\Capgemini Training\day12_01\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\ExtensionMethodDemo.csproj.AssemblyReference.cache
+D:\Capgemini Training\day12_01\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\ExtensionMethodDemo.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\day12_01\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\Extensio.2C707A99.Up2Date
+D:\Capgemini Training\day12_01\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\ExtensionMethodDemo.exe
+D:\Capgemini Training\day12_01\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\ExtensionMethodDemo.pdb

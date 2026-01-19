@@ -1,0 +1,14 @@
+D:\Capgemini Training\day10_01\CollectionsDemo\bin\Debug\net10.0\CollectionsDemo.exe
+D:\Capgemini Training\day10_01\CollectionsDemo\bin\Debug\net10.0\CollectionsDemo.deps.json
+D:\Capgemini Training\day10_01\CollectionsDemo\bin\Debug\net10.0\CollectionsDemo.runtimeconfig.json
+D:\Capgemini Training\day10_01\CollectionsDemo\bin\Debug\net10.0\CollectionsDemo.dll
+D:\Capgemini Training\day10_01\CollectionsDemo\bin\Debug\net10.0\CollectionsDemo.pdb
+D:\Capgemini Training\day10_01\CollectionsDemo\obj\Debug\net10.0\CollectionsDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\day10_01\CollectionsDemo\obj\Debug\net10.0\CollectionsDemo.AssemblyInfoInputs.cache
+D:\Capgemini Training\day10_01\CollectionsDemo\obj\Debug\net10.0\CollectionsDemo.AssemblyInfo.cs
+D:\Capgemini Training\day10_01\CollectionsDemo\obj\Debug\net10.0\CollectionsDemo.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\day10_01\CollectionsDemo\obj\Debug\net10.0\CollectionsDemo.dll
+D:\Capgemini Training\day10_01\CollectionsDemo\obj\Debug\net10.0\refint\CollectionsDemo.dll
+D:\Capgemini Training\day10_01\CollectionsDemo\obj\Debug\net10.0\CollectionsDemo.pdb
+D:\Capgemini Training\day10_01\CollectionsDemo\obj\Debug\net10.0\CollectionsDemo.genruntimeconfig.cache
+D:\Capgemini Training\day10_01\CollectionsDemo\obj\Debug\net10.0\ref\CollectionsDemo.dll

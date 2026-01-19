@@ -1,0 +1,14 @@
+D:\Capgemini Training\Week2_Assessment\bin\Debug\net10.0\Week2_Assessment.exe
+D:\Capgemini Training\Week2_Assessment\bin\Debug\net10.0\Week2_Assessment.deps.json
+D:\Capgemini Training\Week2_Assessment\bin\Debug\net10.0\Week2_Assessment.runtimeconfig.json
+D:\Capgemini Training\Week2_Assessment\bin\Debug\net10.0\Week2_Assessment.dll
+D:\Capgemini Training\Week2_Assessment\bin\Debug\net10.0\Week2_Assessment.pdb
+D:\Capgemini Training\Week2_Assessment\obj\Debug\net10.0\Week2_Assessment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\Week2_Assessment\obj\Debug\net10.0\Week2_Assessment.AssemblyInfoInputs.cache
+D:\Capgemini Training\Week2_Assessment\obj\Debug\net10.0\Week2_Assessment.AssemblyInfo.cs
+D:\Capgemini Training\Week2_Assessment\obj\Debug\net10.0\Week2_Assessment.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\Week2_Assessment\obj\Debug\net10.0\Week2_Assessment.dll
+D:\Capgemini Training\Week2_Assessment\obj\Debug\net10.0\refint\Week2_Assessment.dll
+D:\Capgemini Training\Week2_Assessment\obj\Debug\net10.0\Week2_Assessment.pdb
+D:\Capgemini Training\Week2_Assessment\obj\Debug\net10.0\Week2_Assessment.genruntimeconfig.cache
+D:\Capgemini Training\Week2_Assessment\obj\Debug\net10.0\ref\Week2_Assessment.dll

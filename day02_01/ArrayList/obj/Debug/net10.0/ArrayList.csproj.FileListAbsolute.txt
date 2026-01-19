@@ -1,0 +1,14 @@
+D:\Capgemini Training\day02_01\ArrayList\bin\Debug\net10.0\ArrayList.exe
+D:\Capgemini Training\day02_01\ArrayList\bin\Debug\net10.0\ArrayList.deps.json
+D:\Capgemini Training\day02_01\ArrayList\bin\Debug\net10.0\ArrayList.runtimeconfig.json
+D:\Capgemini Training\day02_01\ArrayList\bin\Debug\net10.0\ArrayList.dll
+D:\Capgemini Training\day02_01\ArrayList\bin\Debug\net10.0\ArrayList.pdb
+D:\Capgemini Training\day02_01\ArrayList\obj\Debug\net10.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\day02_01\ArrayList\obj\Debug\net10.0\ArrayList.AssemblyInfoInputs.cache
+D:\Capgemini Training\day02_01\ArrayList\obj\Debug\net10.0\ArrayList.AssemblyInfo.cs
+D:\Capgemini Training\day02_01\ArrayList\obj\Debug\net10.0\ArrayList.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\day02_01\ArrayList\obj\Debug\net10.0\ArrayList.dll
+D:\Capgemini Training\day02_01\ArrayList\obj\Debug\net10.0\refint\ArrayList.dll
+D:\Capgemini Training\day02_01\ArrayList\obj\Debug\net10.0\ArrayList.pdb
+D:\Capgemini Training\day02_01\ArrayList\obj\Debug\net10.0\ArrayList.genruntimeconfig.cache
+D:\Capgemini Training\day02_01\ArrayList\obj\Debug\net10.0\ref\ArrayList.dll

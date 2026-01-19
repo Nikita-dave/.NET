@@ -1,0 +1,14 @@
+D:\Capgemini Training\day14_01\PracticeAssessment\bin\Debug\net10.0\PracticeAssessment.exe
+D:\Capgemini Training\day14_01\PracticeAssessment\bin\Debug\net10.0\PracticeAssessment.deps.json
+D:\Capgemini Training\day14_01\PracticeAssessment\bin\Debug\net10.0\PracticeAssessment.runtimeconfig.json
+D:\Capgemini Training\day14_01\PracticeAssessment\bin\Debug\net10.0\PracticeAssessment.dll
+D:\Capgemini Training\day14_01\PracticeAssessment\bin\Debug\net10.0\PracticeAssessment.pdb
+D:\Capgemini Training\day14_01\PracticeAssessment\obj\Debug\net10.0\PracticeAssessment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\day14_01\PracticeAssessment\obj\Debug\net10.0\PracticeAssessment.AssemblyInfoInputs.cache
+D:\Capgemini Training\day14_01\PracticeAssessment\obj\Debug\net10.0\PracticeAssessment.AssemblyInfo.cs
+D:\Capgemini Training\day14_01\PracticeAssessment\obj\Debug\net10.0\PracticeAssessment.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\day14_01\PracticeAssessment\obj\Debug\net10.0\PracticeAssessment.dll
+D:\Capgemini Training\day14_01\PracticeAssessment\obj\Debug\net10.0\refint\PracticeAssessment.dll
+D:\Capgemini Training\day14_01\PracticeAssessment\obj\Debug\net10.0\PracticeAssessment.pdb
+D:\Capgemini Training\day14_01\PracticeAssessment\obj\Debug\net10.0\PracticeAssessment.genruntimeconfig.cache
+D:\Capgemini Training\day14_01\PracticeAssessment\obj\Debug\net10.0\ref\PracticeAssessment.dll

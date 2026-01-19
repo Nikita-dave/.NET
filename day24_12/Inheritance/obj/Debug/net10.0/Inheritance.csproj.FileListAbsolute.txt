@@ -1,0 +1,14 @@
+D:\Capgemini Training\day24_12\Inheritance\obj\Debug\net10.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\day24_12\Inheritance\obj\Debug\net10.0\Inheritance.AssemblyInfoInputs.cache
+D:\Capgemini Training\day24_12\Inheritance\obj\Debug\net10.0\Inheritance.AssemblyInfo.cs
+D:\Capgemini Training\day24_12\Inheritance\obj\Debug\net10.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\day24_12\Inheritance\bin\Debug\net10.0\Inheritance.exe
+D:\Capgemini Training\day24_12\Inheritance\bin\Debug\net10.0\Inheritance.deps.json
+D:\Capgemini Training\day24_12\Inheritance\bin\Debug\net10.0\Inheritance.runtimeconfig.json
+D:\Capgemini Training\day24_12\Inheritance\bin\Debug\net10.0\Inheritance.dll
+D:\Capgemini Training\day24_12\Inheritance\bin\Debug\net10.0\Inheritance.pdb
+D:\Capgemini Training\day24_12\Inheritance\obj\Debug\net10.0\Inheritance.dll
+D:\Capgemini Training\day24_12\Inheritance\obj\Debug\net10.0\refint\Inheritance.dll
+D:\Capgemini Training\day24_12\Inheritance\obj\Debug\net10.0\Inheritance.pdb
+D:\Capgemini Training\day24_12\Inheritance\obj\Debug\net10.0\Inheritance.genruntimeconfig.cache
+D:\Capgemini Training\day24_12\Inheritance\obj\Debug\net10.0\ref\Inheritance.dll

@@ -1,0 +1,3 @@
+content from newfile1 is moves to new file2.This
+is Extra
+Text
