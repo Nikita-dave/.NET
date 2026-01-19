@@ -12,3 +12,18 @@ D:\Capgemini Training\day06_01\IndexerDemo\obj\Debug\net10.0\refint\IndexerDemo.
 D:\Capgemini Training\day06_01\IndexerDemo\obj\Debug\net10.0\IndexerDemo.pdb
 D:\Capgemini Training\day06_01\IndexerDemo\obj\Debug\net10.0\IndexerDemo.genruntimeconfig.cache
 D:\Capgemini Training\day06_01\IndexerDemo\obj\Debug\net10.0\ref\IndexerDemo.dll
+D:\.NET\day06_01\IndexerDemo\bin\Debug\net10.0\IndexerDemo.exe
+D:\.NET\day06_01\IndexerDemo\bin\Debug\net10.0\IndexerDemo.deps.json
+D:\.NET\day06_01\IndexerDemo\bin\Debug\net10.0\IndexerDemo.runtimeconfig.json
+D:\.NET\day06_01\IndexerDemo\bin\Debug\net10.0\IndexerDemo.dll
+D:\.NET\day06_01\IndexerDemo\bin\Debug\net10.0\IndexerDemo.pdb
+D:\.NET\day06_01\IndexerDemo\obj\Debug\net10.0\IndexerDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\day06_01\IndexerDemo\obj\Debug\net10.0\IndexerDemo.AssemblyInfoInputs.cache
+D:\.NET\day06_01\IndexerDemo\obj\Debug\net10.0\IndexerDemo.AssemblyInfo.cs
+D:\.NET\day06_01\IndexerDemo\obj\Debug\net10.0\IndexerDemo.csproj.CoreCompileInputs.cache
+D:\.NET\day06_01\IndexerDemo\obj\Debug\net10.0\IndexerDemo.sourcelink.json
+D:\.NET\day06_01\IndexerDemo\obj\Debug\net10.0\IndexerDemo.dll
+D:\.NET\day06_01\IndexerDemo\obj\Debug\net10.0\refint\IndexerDemo.dll
+D:\.NET\day06_01\IndexerDemo\obj\Debug\net10.0\IndexerDemo.pdb
+D:\.NET\day06_01\IndexerDemo\obj\Debug\net10.0\IndexerDemo.genruntimeconfig.cache
+D:\.NET\day06_01\IndexerDemo\obj\Debug\net10.0\ref\IndexerDemo.dll

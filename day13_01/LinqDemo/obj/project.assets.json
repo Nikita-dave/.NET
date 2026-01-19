@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Capgemini Training\\day13_01\\LinqDemo\\LinqDemo.csproj",
+      "projectUniqueName": "D:\\.NET\\day13_01\\LinqDemo\\LinqDemo.csproj",
       "projectName": "LinqDemo",
-      "projectPath": "D:\\Capgemini Training\\day13_01\\LinqDemo\\LinqDemo.csproj",
+      "projectPath": "D:\\.NET\\day13_01\\LinqDemo\\LinqDemo.csproj",
       "packagesPath": "C:\\Users\\daven\\.nuget\\packages\\",
-      "outputPath": "D:\\Capgemini Training\\day13_01\\LinqDemo\\obj\\",
+      "outputPath": "D:\\.NET\\day13_01\\LinqDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

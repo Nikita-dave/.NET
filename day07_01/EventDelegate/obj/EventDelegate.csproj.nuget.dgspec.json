@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Capgemini Training\\day07_01\\EventDelegate\\EventDelegate.csproj": {}
+    "D:\\.NET\\day07_01\\EventDelegate\\EventDelegate.csproj": {}
   },
   "projects": {
-    "D:\\Capgemini Training\\day07_01\\EventDelegate\\EventDelegate.csproj": {
+    "D:\\.NET\\day07_01\\EventDelegate\\EventDelegate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Capgemini Training\\day07_01\\EventDelegate\\EventDelegate.csproj",
+        "projectUniqueName": "D:\\.NET\\day07_01\\EventDelegate\\EventDelegate.csproj",
         "projectName": "EventDelegate",
-        "projectPath": "D:\\Capgemini Training\\day07_01\\EventDelegate\\EventDelegate.csproj",
+        "projectPath": "D:\\.NET\\day07_01\\EventDelegate\\EventDelegate.csproj",
         "packagesPath": "C:\\Users\\daven\\.nuget\\packages\\",
-        "outputPath": "D:\\Capgemini Training\\day07_01\\EventDelegate\\obj\\",
+        "outputPath": "D:\\.NET\\day07_01\\EventDelegate\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

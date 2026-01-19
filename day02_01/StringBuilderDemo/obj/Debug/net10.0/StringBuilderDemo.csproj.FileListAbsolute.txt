@@ -12,3 +12,18 @@ D:\Capgemini Training\day02_01\StringBuilderDemo\obj\Debug\net10.0\refint\String
 D:\Capgemini Training\day02_01\StringBuilderDemo\obj\Debug\net10.0\StringBuilderDemo.pdb
 D:\Capgemini Training\day02_01\StringBuilderDemo\obj\Debug\net10.0\StringBuilderDemo.genruntimeconfig.cache
 D:\Capgemini Training\day02_01\StringBuilderDemo\obj\Debug\net10.0\ref\StringBuilderDemo.dll
+D:\.NET\day02_01\StringBuilderDemo\bin\Debug\net10.0\StringBuilderDemo.exe
+D:\.NET\day02_01\StringBuilderDemo\bin\Debug\net10.0\StringBuilderDemo.deps.json
+D:\.NET\day02_01\StringBuilderDemo\bin\Debug\net10.0\StringBuilderDemo.runtimeconfig.json
+D:\.NET\day02_01\StringBuilderDemo\bin\Debug\net10.0\StringBuilderDemo.dll
+D:\.NET\day02_01\StringBuilderDemo\bin\Debug\net10.0\StringBuilderDemo.pdb
+D:\.NET\day02_01\StringBuilderDemo\obj\Debug\net10.0\StringBuilderDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\day02_01\StringBuilderDemo\obj\Debug\net10.0\StringBuilderDemo.AssemblyInfoInputs.cache
+D:\.NET\day02_01\StringBuilderDemo\obj\Debug\net10.0\StringBuilderDemo.AssemblyInfo.cs
+D:\.NET\day02_01\StringBuilderDemo\obj\Debug\net10.0\StringBuilderDemo.csproj.CoreCompileInputs.cache
+D:\.NET\day02_01\StringBuilderDemo\obj\Debug\net10.0\StringBuilderDemo.sourcelink.json
+D:\.NET\day02_01\StringBuilderDemo\obj\Debug\net10.0\StringBuilderDemo.dll
+D:\.NET\day02_01\StringBuilderDemo\obj\Debug\net10.0\refint\StringBuilderDemo.dll
+D:\.NET\day02_01\StringBuilderDemo\obj\Debug\net10.0\StringBuilderDemo.pdb
+D:\.NET\day02_01\StringBuilderDemo\obj\Debug\net10.0\StringBuilderDemo.genruntimeconfig.cache
+D:\.NET\day02_01\StringBuilderDemo\obj\Debug\net10.0\ref\StringBuilderDemo.dll

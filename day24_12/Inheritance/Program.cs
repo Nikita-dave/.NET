@@ -53,8 +53,11 @@ class Program
         // chair.Accept();
         // chair.Display();
 
-        Unitconvertor conv = new Unitconvertor();
-        conv.Convert(300.00,"meters","kilometers");
+        UnitConvertor conv = new UnitConvertor();
+        double result = conv.Convert(300.00, "meters", "kilometers");
+
+        Console.WriteLine(result);
+
 
 
     }

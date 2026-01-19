@@ -12,3 +12,18 @@ D:\Capgemini Training\day07_01\EventDelegate\obj\Debug\net10.0\refint\EventDeleg
 D:\Capgemini Training\day07_01\EventDelegate\obj\Debug\net10.0\EventDelegate.pdb
 D:\Capgemini Training\day07_01\EventDelegate\obj\Debug\net10.0\EventDelegate.genruntimeconfig.cache
 D:\Capgemini Training\day07_01\EventDelegate\obj\Debug\net10.0\ref\EventDelegate.dll
+D:\.NET\day07_01\EventDelegate\bin\Debug\net10.0\EventDelegate.exe
+D:\.NET\day07_01\EventDelegate\bin\Debug\net10.0\EventDelegate.deps.json
+D:\.NET\day07_01\EventDelegate\bin\Debug\net10.0\EventDelegate.runtimeconfig.json
+D:\.NET\day07_01\EventDelegate\bin\Debug\net10.0\EventDelegate.dll
+D:\.NET\day07_01\EventDelegate\bin\Debug\net10.0\EventDelegate.pdb
+D:\.NET\day07_01\EventDelegate\obj\Debug\net10.0\EventDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\day07_01\EventDelegate\obj\Debug\net10.0\EventDelegate.AssemblyInfoInputs.cache
+D:\.NET\day07_01\EventDelegate\obj\Debug\net10.0\EventDelegate.AssemblyInfo.cs
+D:\.NET\day07_01\EventDelegate\obj\Debug\net10.0\EventDelegate.csproj.CoreCompileInputs.cache
+D:\.NET\day07_01\EventDelegate\obj\Debug\net10.0\EventDelegate.sourcelink.json
+D:\.NET\day07_01\EventDelegate\obj\Debug\net10.0\EventDelegate.dll
+D:\.NET\day07_01\EventDelegate\obj\Debug\net10.0\refint\EventDelegate.dll
+D:\.NET\day07_01\EventDelegate\obj\Debug\net10.0\EventDelegate.pdb
+D:\.NET\day07_01\EventDelegate\obj\Debug\net10.0\EventDelegate.genruntimeconfig.cache
+D:\.NET\day07_01\EventDelegate\obj\Debug\net10.0\ref\EventDelegate.dll

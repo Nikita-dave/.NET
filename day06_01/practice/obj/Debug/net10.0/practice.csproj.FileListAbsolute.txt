@@ -12,3 +12,18 @@ D:\Capgemini Training\day06_01\practice\obj\Debug\net10.0\refint\practice.dll
 D:\Capgemini Training\day06_01\practice\obj\Debug\net10.0\practice.pdb
 D:\Capgemini Training\day06_01\practice\obj\Debug\net10.0\practice.genruntimeconfig.cache
 D:\Capgemini Training\day06_01\practice\obj\Debug\net10.0\ref\practice.dll
+D:\.NET\day06_01\practice\bin\Debug\net10.0\practice.exe
+D:\.NET\day06_01\practice\bin\Debug\net10.0\practice.deps.json
+D:\.NET\day06_01\practice\bin\Debug\net10.0\practice.runtimeconfig.json
+D:\.NET\day06_01\practice\bin\Debug\net10.0\practice.dll
+D:\.NET\day06_01\practice\bin\Debug\net10.0\practice.pdb
+D:\.NET\day06_01\practice\obj\Debug\net10.0\practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\day06_01\practice\obj\Debug\net10.0\practice.AssemblyInfoInputs.cache
+D:\.NET\day06_01\practice\obj\Debug\net10.0\practice.AssemblyInfo.cs
+D:\.NET\day06_01\practice\obj\Debug\net10.0\practice.csproj.CoreCompileInputs.cache
+D:\.NET\day06_01\practice\obj\Debug\net10.0\practice.sourcelink.json
+D:\.NET\day06_01\practice\obj\Debug\net10.0\practice.dll
+D:\.NET\day06_01\practice\obj\Debug\net10.0\refint\practice.dll
+D:\.NET\day06_01\practice\obj\Debug\net10.0\practice.pdb
+D:\.NET\day06_01\practice\obj\Debug\net10.0\practice.genruntimeconfig.cache
+D:\.NET\day06_01\practice\obj\Debug\net10.0\ref\practice.dll

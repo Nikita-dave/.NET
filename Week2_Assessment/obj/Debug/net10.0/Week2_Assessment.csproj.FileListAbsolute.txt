@@ -12,3 +12,18 @@ D:\Capgemini Training\Week2_Assessment\obj\Debug\net10.0\refint\Week2_Assessment
 D:\Capgemini Training\Week2_Assessment\obj\Debug\net10.0\Week2_Assessment.pdb
 D:\Capgemini Training\Week2_Assessment\obj\Debug\net10.0\Week2_Assessment.genruntimeconfig.cache
 D:\Capgemini Training\Week2_Assessment\obj\Debug\net10.0\ref\Week2_Assessment.dll
+D:\.NET\Week2_Assessment\bin\Debug\net10.0\Week2_Assessment.exe
+D:\.NET\Week2_Assessment\bin\Debug\net10.0\Week2_Assessment.deps.json
+D:\.NET\Week2_Assessment\bin\Debug\net10.0\Week2_Assessment.runtimeconfig.json
+D:\.NET\Week2_Assessment\bin\Debug\net10.0\Week2_Assessment.dll
+D:\.NET\Week2_Assessment\bin\Debug\net10.0\Week2_Assessment.pdb
+D:\.NET\Week2_Assessment\obj\Debug\net10.0\Week2_Assessment.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Week2_Assessment\obj\Debug\net10.0\Week2_Assessment.AssemblyInfoInputs.cache
+D:\.NET\Week2_Assessment\obj\Debug\net10.0\Week2_Assessment.AssemblyInfo.cs
+D:\.NET\Week2_Assessment\obj\Debug\net10.0\Week2_Assessment.csproj.CoreCompileInputs.cache
+D:\.NET\Week2_Assessment\obj\Debug\net10.0\Week2_Assessment.sourcelink.json
+D:\.NET\Week2_Assessment\obj\Debug\net10.0\Week2_Assessment.dll
+D:\.NET\Week2_Assessment\obj\Debug\net10.0\refint\Week2_Assessment.dll
+D:\.NET\Week2_Assessment\obj\Debug\net10.0\Week2_Assessment.pdb
+D:\.NET\Week2_Assessment\obj\Debug\net10.0\Week2_Assessment.genruntimeconfig.cache
+D:\.NET\Week2_Assessment\obj\Debug\net10.0\ref\Week2_Assessment.dll

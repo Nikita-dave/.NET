@@ -12,3 +12,18 @@ D:\Capgemini Training\day15_01\AttributeReflectionDemo\obj\Debug\net10.0\refint\
 D:\Capgemini Training\day15_01\AttributeReflectionDemo\obj\Debug\net10.0\AttributeReflectionDemo.pdb
 D:\Capgemini Training\day15_01\AttributeReflectionDemo\obj\Debug\net10.0\AttributeReflectionDemo.genruntimeconfig.cache
 D:\Capgemini Training\day15_01\AttributeReflectionDemo\obj\Debug\net10.0\ref\AttributeReflectionDemo.dll
+D:\.NET\day15_01\AttributeReflectionDemo\bin\Debug\net10.0\AttributeReflectionDemo.exe
+D:\.NET\day15_01\AttributeReflectionDemo\bin\Debug\net10.0\AttributeReflectionDemo.deps.json
+D:\.NET\day15_01\AttributeReflectionDemo\bin\Debug\net10.0\AttributeReflectionDemo.runtimeconfig.json
+D:\.NET\day15_01\AttributeReflectionDemo\bin\Debug\net10.0\AttributeReflectionDemo.dll
+D:\.NET\day15_01\AttributeReflectionDemo\bin\Debug\net10.0\AttributeReflectionDemo.pdb
+D:\.NET\day15_01\AttributeReflectionDemo\obj\Debug\net10.0\AttributeReflectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\day15_01\AttributeReflectionDemo\obj\Debug\net10.0\AttributeReflectionDemo.AssemblyInfoInputs.cache
+D:\.NET\day15_01\AttributeReflectionDemo\obj\Debug\net10.0\AttributeReflectionDemo.AssemblyInfo.cs
+D:\.NET\day15_01\AttributeReflectionDemo\obj\Debug\net10.0\AttributeReflectionDemo.csproj.CoreCompileInputs.cache
+D:\.NET\day15_01\AttributeReflectionDemo\obj\Debug\net10.0\AttributeReflectionDemo.sourcelink.json
+D:\.NET\day15_01\AttributeReflectionDemo\obj\Debug\net10.0\AttributeReflectionDemo.dll
+D:\.NET\day15_01\AttributeReflectionDemo\obj\Debug\net10.0\refint\AttributeReflectionDemo.dll
+D:\.NET\day15_01\AttributeReflectionDemo\obj\Debug\net10.0\AttributeReflectionDemo.pdb
+D:\.NET\day15_01\AttributeReflectionDemo\obj\Debug\net10.0\AttributeReflectionDemo.genruntimeconfig.cache
+D:\.NET\day15_01\AttributeReflectionDemo\obj\Debug\net10.0\ref\AttributeReflectionDemo.dll

@@ -12,3 +12,18 @@ D:\Capgemini Training\day30_12\StringDemo\obj\Debug\net10.0\refint\StringDemo.dl
 D:\Capgemini Training\day30_12\StringDemo\obj\Debug\net10.0\StringDemo.pdb
 D:\Capgemini Training\day30_12\StringDemo\obj\Debug\net10.0\StringDemo.genruntimeconfig.cache
 D:\Capgemini Training\day30_12\StringDemo\obj\Debug\net10.0\ref\StringDemo.dll
+D:\.NET\day30_12\StringDemo\bin\Debug\net10.0\StringDemo.exe
+D:\.NET\day30_12\StringDemo\bin\Debug\net10.0\StringDemo.deps.json
+D:\.NET\day30_12\StringDemo\bin\Debug\net10.0\StringDemo.runtimeconfig.json
+D:\.NET\day30_12\StringDemo\bin\Debug\net10.0\StringDemo.dll
+D:\.NET\day30_12\StringDemo\bin\Debug\net10.0\StringDemo.pdb
+D:\.NET\day30_12\StringDemo\obj\Debug\net10.0\StringDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\day30_12\StringDemo\obj\Debug\net10.0\StringDemo.AssemblyInfoInputs.cache
+D:\.NET\day30_12\StringDemo\obj\Debug\net10.0\StringDemo.AssemblyInfo.cs
+D:\.NET\day30_12\StringDemo\obj\Debug\net10.0\StringDemo.csproj.CoreCompileInputs.cache
+D:\.NET\day30_12\StringDemo\obj\Debug\net10.0\StringDemo.sourcelink.json
+D:\.NET\day30_12\StringDemo\obj\Debug\net10.0\StringDemo.dll
+D:\.NET\day30_12\StringDemo\obj\Debug\net10.0\refint\StringDemo.dll
+D:\.NET\day30_12\StringDemo\obj\Debug\net10.0\StringDemo.pdb
+D:\.NET\day30_12\StringDemo\obj\Debug\net10.0\StringDemo.genruntimeconfig.cache
+D:\.NET\day30_12\StringDemo\obj\Debug\net10.0\ref\StringDemo.dll

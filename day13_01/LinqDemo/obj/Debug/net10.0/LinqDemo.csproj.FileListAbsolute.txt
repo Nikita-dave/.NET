@@ -12,3 +12,18 @@ D:\Capgemini Training\day13_01\LinqDemo\obj\Debug\net10.0\refint\LinqDemo.dll
 D:\Capgemini Training\day13_01\LinqDemo\obj\Debug\net10.0\LinqDemo.pdb
 D:\Capgemini Training\day13_01\LinqDemo\obj\Debug\net10.0\LinqDemo.genruntimeconfig.cache
 D:\Capgemini Training\day13_01\LinqDemo\obj\Debug\net10.0\ref\LinqDemo.dll
+D:\.NET\day13_01\LinqDemo\bin\Debug\net10.0\LinqDemo.exe
+D:\.NET\day13_01\LinqDemo\bin\Debug\net10.0\LinqDemo.deps.json
+D:\.NET\day13_01\LinqDemo\bin\Debug\net10.0\LinqDemo.runtimeconfig.json
+D:\.NET\day13_01\LinqDemo\bin\Debug\net10.0\LinqDemo.dll
+D:\.NET\day13_01\LinqDemo\bin\Debug\net10.0\LinqDemo.pdb
+D:\.NET\day13_01\LinqDemo\obj\Debug\net10.0\LinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\day13_01\LinqDemo\obj\Debug\net10.0\LinqDemo.AssemblyInfoInputs.cache
+D:\.NET\day13_01\LinqDemo\obj\Debug\net10.0\LinqDemo.AssemblyInfo.cs
+D:\.NET\day13_01\LinqDemo\obj\Debug\net10.0\LinqDemo.csproj.CoreCompileInputs.cache
+D:\.NET\day13_01\LinqDemo\obj\Debug\net10.0\LinqDemo.sourcelink.json
+D:\.NET\day13_01\LinqDemo\obj\Debug\net10.0\LinqDemo.dll
+D:\.NET\day13_01\LinqDemo\obj\Debug\net10.0\refint\LinqDemo.dll
+D:\.NET\day13_01\LinqDemo\obj\Debug\net10.0\LinqDemo.pdb
+D:\.NET\day13_01\LinqDemo\obj\Debug\net10.0\LinqDemo.genruntimeconfig.cache
+D:\.NET\day13_01\LinqDemo\obj\Debug\net10.0\ref\LinqDemo.dll

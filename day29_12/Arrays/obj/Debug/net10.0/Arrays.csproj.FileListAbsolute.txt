@@ -12,3 +12,18 @@ D:\Capgemini Training\day29_12\Arrays\obj\Debug\net10.0\refint\Arrays.dll
 D:\Capgemini Training\day29_12\Arrays\obj\Debug\net10.0\Arrays.pdb
 D:\Capgemini Training\day29_12\Arrays\obj\Debug\net10.0\Arrays.genruntimeconfig.cache
 D:\Capgemini Training\day29_12\Arrays\obj\Debug\net10.0\ref\Arrays.dll
+D:\.NET\day29_12\Arrays\bin\Debug\net10.0\Arrays.exe
+D:\.NET\day29_12\Arrays\bin\Debug\net10.0\Arrays.deps.json
+D:\.NET\day29_12\Arrays\bin\Debug\net10.0\Arrays.runtimeconfig.json
+D:\.NET\day29_12\Arrays\bin\Debug\net10.0\Arrays.dll
+D:\.NET\day29_12\Arrays\bin\Debug\net10.0\Arrays.pdb
+D:\.NET\day29_12\Arrays\obj\Debug\net10.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\day29_12\Arrays\obj\Debug\net10.0\Arrays.AssemblyInfoInputs.cache
+D:\.NET\day29_12\Arrays\obj\Debug\net10.0\Arrays.AssemblyInfo.cs
+D:\.NET\day29_12\Arrays\obj\Debug\net10.0\Arrays.csproj.CoreCompileInputs.cache
+D:\.NET\day29_12\Arrays\obj\Debug\net10.0\Arrays.sourcelink.json
+D:\.NET\day29_12\Arrays\obj\Debug\net10.0\Arrays.dll
+D:\.NET\day29_12\Arrays\obj\Debug\net10.0\refint\Arrays.dll
+D:\.NET\day29_12\Arrays\obj\Debug\net10.0\Arrays.pdb
+D:\.NET\day29_12\Arrays\obj\Debug\net10.0\Arrays.genruntimeconfig.cache
+D:\.NET\day29_12\Arrays\obj\Debug\net10.0\ref\Arrays.dll

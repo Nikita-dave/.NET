@@ -12,3 +12,18 @@ D:\Capgemini Training\day26_12\Interface\obj\Debug\net10.0\refint\Interface.dll
 D:\Capgemini Training\day26_12\Interface\obj\Debug\net10.0\Interface.pdb
 D:\Capgemini Training\day26_12\Interface\obj\Debug\net10.0\Interface.genruntimeconfig.cache
 D:\Capgemini Training\day26_12\Interface\obj\Debug\net10.0\ref\Interface.dll
+D:\.NET\day26_12\Interface\bin\Debug\net10.0\Interface.exe
+D:\.NET\day26_12\Interface\bin\Debug\net10.0\Interface.deps.json
+D:\.NET\day26_12\Interface\bin\Debug\net10.0\Interface.runtimeconfig.json
+D:\.NET\day26_12\Interface\bin\Debug\net10.0\Interface.dll
+D:\.NET\day26_12\Interface\bin\Debug\net10.0\Interface.pdb
+D:\.NET\day26_12\Interface\obj\Debug\net10.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\day26_12\Interface\obj\Debug\net10.0\Interface.AssemblyInfoInputs.cache
+D:\.NET\day26_12\Interface\obj\Debug\net10.0\Interface.AssemblyInfo.cs
+D:\.NET\day26_12\Interface\obj\Debug\net10.0\Interface.csproj.CoreCompileInputs.cache
+D:\.NET\day26_12\Interface\obj\Debug\net10.0\Interface.sourcelink.json
+D:\.NET\day26_12\Interface\obj\Debug\net10.0\Interface.dll
+D:\.NET\day26_12\Interface\obj\Debug\net10.0\refint\Interface.dll
+D:\.NET\day26_12\Interface\obj\Debug\net10.0\Interface.pdb
+D:\.NET\day26_12\Interface\obj\Debug\net10.0\Interface.genruntimeconfig.cache
+D:\.NET\day26_12\Interface\obj\Debug\net10.0\ref\Interface.dll

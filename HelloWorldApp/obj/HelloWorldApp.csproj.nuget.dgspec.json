@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Capgemini Training\\HelloWorldApp\\HelloWorldApp.csproj": {}
+    "D:\\.NET\\HelloWorldApp\\HelloWorldApp.csproj": {}
   },
   "projects": {
-    "D:\\Capgemini Training\\HelloWorldApp\\HelloWorldApp.csproj": {
+    "D:\\.NET\\HelloWorldApp\\HelloWorldApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Capgemini Training\\HelloWorldApp\\HelloWorldApp.csproj",
+        "projectUniqueName": "D:\\.NET\\HelloWorldApp\\HelloWorldApp.csproj",
         "projectName": "HelloWorldApp",
-        "projectPath": "D:\\Capgemini Training\\HelloWorldApp\\HelloWorldApp.csproj",
+        "projectPath": "D:\\.NET\\HelloWorldApp\\HelloWorldApp.csproj",
         "packagesPath": "C:\\Users\\daven\\.nuget\\packages\\",
-        "outputPath": "D:\\Capgemini Training\\HelloWorldApp\\obj\\",
+        "outputPath": "D:\\.NET\\HelloWorldApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

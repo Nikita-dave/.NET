@@ -12,3 +12,18 @@ D:\Capgemini Training\day08_01\FileDemo\obj\Debug\net10.0\refint\FileDemo.dll
 D:\Capgemini Training\day08_01\FileDemo\obj\Debug\net10.0\FileDemo.pdb
 D:\Capgemini Training\day08_01\FileDemo\obj\Debug\net10.0\FileDemo.genruntimeconfig.cache
 D:\Capgemini Training\day08_01\FileDemo\obj\Debug\net10.0\ref\FileDemo.dll
+D:\.NET\day08_01\FileDemo\bin\Debug\net10.0\FileDemo.exe
+D:\.NET\day08_01\FileDemo\bin\Debug\net10.0\FileDemo.deps.json
+D:\.NET\day08_01\FileDemo\bin\Debug\net10.0\FileDemo.runtimeconfig.json
+D:\.NET\day08_01\FileDemo\bin\Debug\net10.0\FileDemo.dll
+D:\.NET\day08_01\FileDemo\bin\Debug\net10.0\FileDemo.pdb
+D:\.NET\day08_01\FileDemo\obj\Debug\net10.0\FileDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\day08_01\FileDemo\obj\Debug\net10.0\FileDemo.AssemblyInfoInputs.cache
+D:\.NET\day08_01\FileDemo\obj\Debug\net10.0\FileDemo.AssemblyInfo.cs
+D:\.NET\day08_01\FileDemo\obj\Debug\net10.0\FileDemo.csproj.CoreCompileInputs.cache
+D:\.NET\day08_01\FileDemo\obj\Debug\net10.0\FileDemo.sourcelink.json
+D:\.NET\day08_01\FileDemo\obj\Debug\net10.0\FileDemo.dll
+D:\.NET\day08_01\FileDemo\obj\Debug\net10.0\refint\FileDemo.dll
+D:\.NET\day08_01\FileDemo\obj\Debug\net10.0\FileDemo.pdb
+D:\.NET\day08_01\FileDemo\obj\Debug\net10.0\FileDemo.genruntimeconfig.cache
+D:\.NET\day08_01\FileDemo\obj\Debug\net10.0\ref\FileDemo.dll
