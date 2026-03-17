@@ -27,3 +27,4 @@ D:\.NET\day13_01\LinqDemo\obj\Debug\net10.0\refint\LinqDemo.dll
 D:\.NET\day13_01\LinqDemo\obj\Debug\net10.0\LinqDemo.pdb
 D:\.NET\day13_01\LinqDemo\obj\Debug\net10.0\LinqDemo.genruntimeconfig.cache
 D:\.NET\day13_01\LinqDemo\obj\Debug\net10.0\ref\LinqDemo.dll
+D:\Capgemini Training\day13_01\LinqDemo\obj\Debug\net10.0\LinqDemo.sourcelink.json

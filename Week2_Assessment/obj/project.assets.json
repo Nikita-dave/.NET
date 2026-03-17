@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NET\\Week2_Assessment\\Week2_Assessment.csproj",
+      "projectUniqueName": "D:\\Capgemini Training\\Week2_Assessment\\Week2_Assessment.csproj",
       "projectName": "Week2_Assessment",
-      "projectPath": "D:\\.NET\\Week2_Assessment\\Week2_Assessment.csproj",
+      "projectPath": "D:\\Capgemini Training\\Week2_Assessment\\Week2_Assessment.csproj",
       "packagesPath": "C:\\Users\\daven\\.nuget\\packages\\",
-      "outputPath": "D:\\.NET\\Week2_Assessment\\obj\\",
+      "outputPath": "D:\\Capgemini Training\\Week2_Assessment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

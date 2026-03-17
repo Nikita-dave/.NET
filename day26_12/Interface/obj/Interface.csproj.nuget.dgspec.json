@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.NET\\day26_12\\Interface\\Interface.csproj": {}
+    "D:\\Capgemini Training\\day26_12\\Interface\\Interface.csproj": {}
   },
   "projects": {
-    "D:\\.NET\\day26_12\\Interface\\Interface.csproj": {
+    "D:\\Capgemini Training\\day26_12\\Interface\\Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NET\\day26_12\\Interface\\Interface.csproj",
+        "projectUniqueName": "D:\\Capgemini Training\\day26_12\\Interface\\Interface.csproj",
         "projectName": "Interface",
-        "projectPath": "D:\\.NET\\day26_12\\Interface\\Interface.csproj",
+        "projectPath": "D:\\Capgemini Training\\day26_12\\Interface\\Interface.csproj",
         "packagesPath": "C:\\Users\\daven\\.nuget\\packages\\",
-        "outputPath": "D:\\.NET\\day26_12\\Interface\\obj\\",
+        "outputPath": "D:\\Capgemini Training\\day26_12\\Interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -27,3 +27,4 @@ D:\.NET\HelloWorldApp\obj\Debug\net10.0\refint\HelloWorldApp.dll
 D:\.NET\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.pdb
 D:\.NET\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.genruntimeconfig.cache
 D:\.NET\HelloWorldApp\obj\Debug\net10.0\ref\HelloWorldApp.dll
+D:\Capgemini Training\HelloWorldApp\obj\Debug\net10.0\HelloWorldApp.sourcelink.json

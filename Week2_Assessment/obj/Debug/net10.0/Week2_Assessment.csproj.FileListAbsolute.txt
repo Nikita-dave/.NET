@@ -27,3 +27,4 @@ D:\.NET\Week2_Assessment\obj\Debug\net10.0\refint\Week2_Assessment.dll
 D:\.NET\Week2_Assessment\obj\Debug\net10.0\Week2_Assessment.pdb
 D:\.NET\Week2_Assessment\obj\Debug\net10.0\Week2_Assessment.genruntimeconfig.cache
 D:\.NET\Week2_Assessment\obj\Debug\net10.0\ref\Week2_Assessment.dll
+D:\Capgemini Training\Week2_Assessment\obj\Debug\net10.0\Week2_Assessment.sourcelink.json

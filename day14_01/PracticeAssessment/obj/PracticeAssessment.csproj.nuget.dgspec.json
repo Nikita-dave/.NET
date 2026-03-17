@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.NET\\day14_01\\PracticeAssessment\\PracticeAssessment.csproj": {}
+    "D:\\Capgemini Training\\day14_01\\PracticeAssessment\\PracticeAssessment.csproj": {}
   },
   "projects": {
-    "D:\\.NET\\day14_01\\PracticeAssessment\\PracticeAssessment.csproj": {
+    "D:\\Capgemini Training\\day14_01\\PracticeAssessment\\PracticeAssessment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NET\\day14_01\\PracticeAssessment\\PracticeAssessment.csproj",
+        "projectUniqueName": "D:\\Capgemini Training\\day14_01\\PracticeAssessment\\PracticeAssessment.csproj",
         "projectName": "PracticeAssessment",
-        "projectPath": "D:\\.NET\\day14_01\\PracticeAssessment\\PracticeAssessment.csproj",
+        "projectPath": "D:\\Capgemini Training\\day14_01\\PracticeAssessment\\PracticeAssessment.csproj",
         "packagesPath": "C:\\Users\\daven\\.nuget\\packages\\",
-        "outputPath": "D:\\.NET\\day14_01\\PracticeAssessment\\obj\\",
+        "outputPath": "D:\\Capgemini Training\\day14_01\\PracticeAssessment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

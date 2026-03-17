@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.NET\\day09_01\\BinaryFileDemo\\BinaryFileDemo.csproj": {}
+    "D:\\Capgemini Training\\day09_01\\BinaryFileDemo\\BinaryFileDemo.csproj": {}
   },
   "projects": {
-    "D:\\.NET\\day09_01\\BinaryFileDemo\\BinaryFileDemo.csproj": {
+    "D:\\Capgemini Training\\day09_01\\BinaryFileDemo\\BinaryFileDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NET\\day09_01\\BinaryFileDemo\\BinaryFileDemo.csproj",
+        "projectUniqueName": "D:\\Capgemini Training\\day09_01\\BinaryFileDemo\\BinaryFileDemo.csproj",
         "projectName": "BinaryFileDemo",
-        "projectPath": "D:\\.NET\\day09_01\\BinaryFileDemo\\BinaryFileDemo.csproj",
+        "projectPath": "D:\\Capgemini Training\\day09_01\\BinaryFileDemo\\BinaryFileDemo.csproj",
         "packagesPath": "C:\\Users\\daven\\.nuget\\packages\\",
-        "outputPath": "D:\\.NET\\day09_01\\BinaryFileDemo\\obj\\",
+        "outputPath": "D:\\Capgemini Training\\day09_01\\BinaryFileDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

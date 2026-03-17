@@ -27,3 +27,4 @@ D:\.NET\day03_01\CollectionDemo\obj\Debug\net10.0\refint\CollectionDemo.dll
 D:\.NET\day03_01\CollectionDemo\obj\Debug\net10.0\CollectionDemo.pdb
 D:\.NET\day03_01\CollectionDemo\obj\Debug\net10.0\CollectionDemo.genruntimeconfig.cache
 D:\.NET\day03_01\CollectionDemo\obj\Debug\net10.0\ref\CollectionDemo.dll
+D:\Capgemini Training\day03_01\CollectionDemo\obj\Debug\net10.0\CollectionDemo.sourcelink.json

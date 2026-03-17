@@ -27,3 +27,4 @@ D:\.NET\day24_12\Inheritance\bin\Debug\net10.0\Inheritance.dll
 D:\.NET\day24_12\Inheritance\bin\Debug\net10.0\Inheritance.pdb
 D:\.NET\day24_12\Inheritance\obj\Debug\net10.0\Inheritance.genruntimeconfig.cache
 D:\.NET\day24_12\Inheritance\obj\Debug\net10.0\ref\Inheritance.dll
+D:\Capgemini Training\day24_12\Inheritance\obj\Debug\net10.0\Inheritance.sourcelink.json

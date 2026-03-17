@@ -27,3 +27,4 @@ D:\.NET\day02_01\StringBuilderDemo\obj\Debug\net10.0\refint\StringBuilderDemo.dl
 D:\.NET\day02_01\StringBuilderDemo\obj\Debug\net10.0\StringBuilderDemo.pdb
 D:\.NET\day02_01\StringBuilderDemo\obj\Debug\net10.0\StringBuilderDemo.genruntimeconfig.cache
 D:\.NET\day02_01\StringBuilderDemo\obj\Debug\net10.0\ref\StringBuilderDemo.dll
+D:\Capgemini Training\day02_01\StringBuilderDemo\obj\Debug\net10.0\StringBuilderDemo.sourcelink.json

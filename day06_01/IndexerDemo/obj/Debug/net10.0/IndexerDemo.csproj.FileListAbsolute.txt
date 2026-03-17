@@ -27,3 +27,4 @@ D:\.NET\day06_01\IndexerDemo\obj\Debug\net10.0\refint\IndexerDemo.dll
 D:\.NET\day06_01\IndexerDemo\obj\Debug\net10.0\IndexerDemo.pdb
 D:\.NET\day06_01\IndexerDemo\obj\Debug\net10.0\IndexerDemo.genruntimeconfig.cache
 D:\.NET\day06_01\IndexerDemo\obj\Debug\net10.0\ref\IndexerDemo.dll
+D:\Capgemini Training\day06_01\IndexerDemo\obj\Debug\net10.0\IndexerDemo.sourcelink.json

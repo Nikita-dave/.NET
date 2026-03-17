@@ -27,3 +27,4 @@ D:\.NET\day14_01\PracticeAssessment\obj\Debug\net10.0\refint\PracticeAssessment.
 D:\.NET\day14_01\PracticeAssessment\obj\Debug\net10.0\PracticeAssessment.pdb
 D:\.NET\day14_01\PracticeAssessment\obj\Debug\net10.0\PracticeAssessment.genruntimeconfig.cache
 D:\.NET\day14_01\PracticeAssessment\obj\Debug\net10.0\ref\PracticeAssessment.dll
+D:\Capgemini Training\day14_01\PracticeAssessment\obj\Debug\net10.0\PracticeAssessment.sourcelink.json

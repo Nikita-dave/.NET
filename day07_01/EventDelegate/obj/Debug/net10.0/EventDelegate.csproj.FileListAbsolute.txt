@@ -27,3 +27,4 @@ D:\.NET\day07_01\EventDelegate\obj\Debug\net10.0\refint\EventDelegate.dll
 D:\.NET\day07_01\EventDelegate\obj\Debug\net10.0\EventDelegate.pdb
 D:\.NET\day07_01\EventDelegate\obj\Debug\net10.0\EventDelegate.genruntimeconfig.cache
 D:\.NET\day07_01\EventDelegate\obj\Debug\net10.0\ref\EventDelegate.dll
+D:\Capgemini Training\day07_01\EventDelegate\obj\Debug\net10.0\EventDelegate.sourcelink.json

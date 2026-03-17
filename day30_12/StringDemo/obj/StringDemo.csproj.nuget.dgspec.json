@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.NET\\day30_12\\StringDemo\\StringDemo.csproj": {}
+    "D:\\Capgemini Training\\day30_12\\StringDemo\\StringDemo.csproj": {}
   },
   "projects": {
-    "D:\\.NET\\day30_12\\StringDemo\\StringDemo.csproj": {
+    "D:\\Capgemini Training\\day30_12\\StringDemo\\StringDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NET\\day30_12\\StringDemo\\StringDemo.csproj",
+        "projectUniqueName": "D:\\Capgemini Training\\day30_12\\StringDemo\\StringDemo.csproj",
         "projectName": "StringDemo",
-        "projectPath": "D:\\.NET\\day30_12\\StringDemo\\StringDemo.csproj",
+        "projectPath": "D:\\Capgemini Training\\day30_12\\StringDemo\\StringDemo.csproj",
         "packagesPath": "C:\\Users\\daven\\.nuget\\packages\\",
-        "outputPath": "D:\\.NET\\day30_12\\StringDemo\\obj\\",
+        "outputPath": "D:\\Capgemini Training\\day30_12\\StringDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

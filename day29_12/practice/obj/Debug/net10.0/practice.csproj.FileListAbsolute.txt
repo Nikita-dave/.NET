@@ -27,3 +27,4 @@ D:\.NET\day29_12\practice\obj\Debug\net10.0\refint\practice.dll
 D:\.NET\day29_12\practice\obj\Debug\net10.0\practice.pdb
 D:\.NET\day29_12\practice\obj\Debug\net10.0\practice.genruntimeconfig.cache
 D:\.NET\day29_12\practice\obj\Debug\net10.0\ref\practice.dll
+D:\Capgemini Training\day29_12\practice\obj\Debug\net10.0\practice.sourcelink.json

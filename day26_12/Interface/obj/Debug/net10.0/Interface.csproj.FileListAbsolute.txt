@@ -27,3 +27,4 @@ D:\.NET\day26_12\Interface\obj\Debug\net10.0\refint\Interface.dll
 D:\.NET\day26_12\Interface\obj\Debug\net10.0\Interface.pdb
 D:\.NET\day26_12\Interface\obj\Debug\net10.0\Interface.genruntimeconfig.cache
 D:\.NET\day26_12\Interface\obj\Debug\net10.0\ref\Interface.dll
+D:\Capgemini Training\day26_12\Interface\obj\Debug\net10.0\Interface.sourcelink.json

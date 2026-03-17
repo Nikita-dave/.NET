@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.NET\\Project\\Project.csproj": {}
+    "D:\\Capgemini Training\\Project\\Project.csproj": {}
   },
   "projects": {
-    "D:\\.NET\\Project\\Project.csproj": {
+    "D:\\Capgemini Training\\Project\\Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NET\\Project\\Project.csproj",
+        "projectUniqueName": "D:\\Capgemini Training\\Project\\Project.csproj",
         "projectName": "Project",
-        "projectPath": "D:\\.NET\\Project\\Project.csproj",
+        "projectPath": "D:\\Capgemini Training\\Project\\Project.csproj",
         "packagesPath": "C:\\Users\\daven\\.nuget\\packages\\",
-        "outputPath": "D:\\.NET\\Project\\obj\\",
+        "outputPath": "D:\\Capgemini Training\\Project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
